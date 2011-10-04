@@ -4,13 +4,40 @@
   <title>My Octopress Blog</title>
   <link href="http://adambarber.github.com/atom.xml" rel="self"/>
   <link href="http://adambarber.github.com/"/>
-  <updated>2011-10-04T00:23:51-07:00</updated>
+  <updated>2011-10-04T00:31:10-07:00</updated>
   <id>http://adambarber.github.com/</id>
   <author>
-    <name>Your Name</name>
+    <name>Adam Barber</name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title>My First Octopress Blog</title>
+    <link href="http://adambarber.github.com/blog/2011/10/04/my-first-octopress-blog/"/>
+    <updated>2011-10-04T00:26:00-07:00</updated>
+    <id>http://adambarber.github.com/blog/2011/10/04/my-first-octopress-blog</id>
+    <content type="html">&lt;p&gt;Hello and welcome to my fist Octopress blog. This sure is fancy. Here&amp;#8217;s some &lt;strong&gt;bold&lt;/strong&gt; text. Here&amp;#8217;s some &lt;em&gt;italic&lt;/em&gt; text!&lt;/p&gt;
+
+&lt;h3&gt;An H3 Headline&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A List&lt;/li&gt;
+&lt;li&gt;More List&lt;/li&gt;
+&lt;li&gt;Even More list&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ligula dui, condimentum quis posuere vel, placerat non lorem. Maecenas erat eros, congue ut dictum fringilla, mollis id nulla. Integer nunc quam, sollicitudin sit amet consequat posuere, malesuada consequat nibh. Aliquam iaculis nulla a lectus adipiscing vel tincidunt nunc volutpat. Fusce vitae diam ligula, in dignissim sem.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Some Numbers&lt;/li&gt;
+&lt;li&gt;And A Second&lt;/li&gt;
+&lt;li&gt;And A Third&lt;/li&gt;
+&lt;/ol&gt;
+
+</content>
+  </entry>
   
 </feed>
